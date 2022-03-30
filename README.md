@@ -14,6 +14,4 @@ A partir dos dados escolhidos, que estão em torno de número de casos, mortes e
 * Ranking dos países que mais vacinaram
 * Número de novos casos e mortes no Brasil
 
-Confira o vídeo do processo:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3hoQAptPxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Confira o vídeo do processo aqui!](https://youtu.be/C3hoQAptPxI)
